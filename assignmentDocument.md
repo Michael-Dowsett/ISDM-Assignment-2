@@ -1,6 +1,6 @@
 ## Objectives
 **The system should:**
-* Dynamicically call route both inbound and outbound calls to match end-customers (or potential customers) according to RMs skills and customer profiles.
+* Dynamically call route both inbound and outbound calls to match end-customers (or potential customers) according to RMs skills and customer profiles.
 * Adjust the call flow rate to suitable Relationship Managers (RM).
 * Dial outbound calls automatically, display customer details and guideline script, matching RMs skills and target customer profiles.
 * Produce skill scores of RMs based on previous call durations, sales and profile.
